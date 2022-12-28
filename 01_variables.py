@@ -10,6 +10,8 @@ print(my_int_variable)
 my_boolean_variable = True
 print(my_boolean_variable)
 
+pow(my_boolean_variable)
+
 
 # Convirtiendo variable int en string
 my_int_variable_to_str_variable = str(my_int_variable)
@@ -41,3 +43,4 @@ print(my_string_variable)
 # Estableciendo una variable el tipo para no tener que perder su tipo en caso de que se cambie el vaor
 adress: str = "Calle 20"
 adress = 20
+
